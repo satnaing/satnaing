@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/satnaing" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Sat Naing's Codepen Account" /></a>
+<a href="https://codepen.io/satnaing" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Sat Naing's Codepen Account" /></a>
 <a href="https://dev.to/satnaing" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Sat Naing's Dev.to Account"/></a>
 <a href="https://fb.com/satnaing.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Sat Naing's Facebook Account" /></a>
 <a href="https://instagram.com/satnaing.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Sat Naing's Instagram Account" /></a>
