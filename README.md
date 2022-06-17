@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
 
-- 📫 How to reach me **satnaingdev@gmail.com**
+- 📫 How to reach me **contact@satnaing.dev**
 
 - 🚀 My website 👉🏻 <a href="https://satnaing.dev" target="blank">https://satnaing.dev</a>
 
