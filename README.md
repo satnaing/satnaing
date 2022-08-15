@@ -46,3 +46,5 @@
 <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="PWA">
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnaing&hide=contribs,prs&theme=tokyonight)
