@@ -47,4 +47,4 @@
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnaing&hide=contribs,prs&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnaing&theme=tokyonight)
