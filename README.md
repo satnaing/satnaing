@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
 <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="PWA">
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
+<img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnaing&theme=tokyonight)
+![SatNaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnaing&theme=tokyonight)
