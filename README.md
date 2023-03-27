@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **FrontEnd development and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/satnaing](https://github.com/satnaing)
-
 - 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
 
 - 📫 How to reach me **contact@satnaing.dev**
